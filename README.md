@@ -1,1 +1,4 @@
-# Lalith-s-compiler
+# lalithsCompiler
+sudo apt install
+binutils
+nasm
